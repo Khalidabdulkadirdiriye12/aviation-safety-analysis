@@ -24,8 +24,8 @@ These insights will guide decision-making for purchasing and operating aircrafts
 - **Pandas** for data manipulation
 - **Seaborn & Matplotlib** for data visualization
 - **Jupyter Notebook**
-- **Tableau** for interactive dashboards (if included)
-
+- **Tableau** for interactive dashboards
+https://public.tableau.com/app/profile/khalid.abdulkadir/viz/AirAccidentSeverityAnalysis/Dashboard1
 ---
 
 ## 📊 Key Questions
