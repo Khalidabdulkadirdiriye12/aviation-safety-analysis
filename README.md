@@ -52,4 +52,4 @@ https://public.tableau.com/app/profile/khalid.abdulkadir/viz/AirAccidentSeverity
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aviation-safety-analysis.git
+   git clone https://github.com/Khalidabdulkadirdiriye12/aviation-safety-analysis
